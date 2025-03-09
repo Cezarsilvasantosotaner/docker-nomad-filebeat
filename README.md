@@ -1,4 +1,4 @@
-# nomad-filebeat docker image
+ nomad-filebeat docker image
 
 A docker image to run [Filebeat][1] as a log shipper task for a [Nomad][2] task group.
 
